@@ -1,4 +1,7 @@
 # Eduard Danilov
+![Main photo](/img/photo.png)
+
+---
 
 ## Contact details:<br>
 Phone, Viber, WhatsApp: +375257389241<br>
@@ -6,6 +9,7 @@ Telegram: @EdDanilov<br>
 mail: ed.danilov94@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/eddanilov) 
 
+---
 
 ## Education:
 
@@ -42,3 +46,8 @@ RS-School: Front-end developer
 * HTML
 * CSS
 * JavaScript
+
+---
+## English level: A1-A2
+
+---
