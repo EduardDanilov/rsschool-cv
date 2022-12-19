@@ -28,14 +28,17 @@ up an infrastructure that includes several virtual
 machines
 * Jenkins: installation and configuration; writing
 pipelines and jobs
-building a full CI/CD cycle on the LAMP stack
+* building a full CI/CD cycle on the LAMP stack (for example https://github.com/EduardDanilov/Project/tree/master)
+
 
 2022 - ...
-GeekBrains
-Developer
-Python, HTML, CSS, SQL
+GeekBrains: Developer
+* [Python](https://github.com/EduardDanilov/GB/tree/master/Python)
+* [HTML + CSS](https://github.com/EduardDanilov/GB/tree/master/web/cv)
+* [SQL](https://github.com/EduardDanilov/GB/tree/master/SQL)
 
 2022 - ...
-RS-School
-Front-end developer
-HTML, CSS, JavaScript
+RS-School: Front-end developer
+* HTML
+* CSS
+* JavaScript
