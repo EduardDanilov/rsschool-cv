@@ -1,5 +1,6 @@
 # Eduard Danilov
-![Main photo](/img/photo.png)
+
+<img src = "img/photo.png" width = "300" alt = "photo">
 
 ---
 
